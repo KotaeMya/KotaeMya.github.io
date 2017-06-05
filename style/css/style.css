@@ -1,4 +1,4 @@
-a {
+﻿a {
     color: inherit;
     text-decoration: inherit;
 }
@@ -421,7 +421,7 @@ justify-content: center;
 .bg-map{
 	width: 1440px;
 	height: 500px;
-	background-image: url(C:/Users/SerejaHasst/Desktop/maket/project/pages/map.png);
+	background-image: url("../pages/map.png");
 	background-repeat: no-repeat;
     background-position: bottom;
 	display: flex;
